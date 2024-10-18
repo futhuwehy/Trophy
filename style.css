@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    background-color: #B79D37;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.crest{
+    width: 60px;
+    height: 10px;
+}
+
+#fire{
+    width: 60px;
+    height: 100px;
+}
+#PL{
+    height: 500px;
+    width: 350px;
+    margin-left: 20px;
+}
+#YNWA{
+    height: 100px;
+    width: 130px;
+    display: flex;
+}
+.main{
+    background-color: #DC1414;
+    width: 100%;
+    height: 545px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.year{
+    color: white;
+    font-family: Irish Grover;
+    font-size: 48px;
+    margin-left: 300px;
+}
+.year2{
+    color: white;
+    font-family: Irish Grover;
+    font-size: 44px;
+}
+#one-nine{
+    font-family: irish grover;
+    color: #541414;
+    font-size: 80px;
+    display: flex;
+}
+#arrow{
+    width: 50px;
+    margin-left: 300px;
+}
+.footer{
+    background-color: #B79D37;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
